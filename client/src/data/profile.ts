@@ -1,7 +1,7 @@
 export const profile = {
   id: 1,
   name: "Aditya Sharma",
-  title: "Backend & Full Stack Developer",
+  title: "Backend Engineer & Product Builder",
   tagline: "DSA-driven developer building scalable web applications.",
 
   about: "Computer Science undergraduate at Lovely Professional University with strong interest in backend engineering and system design. I actively practice Data Structures and Algorithms and enjoy building scalable web applications using the MERN stack. My focus is on writing efficient code, solving algorithmic problems, and developing production-ready systems.",

@@ -22,15 +22,15 @@ export const projects = [
     featured: true
   },
   {
-    id: 3,
-    title: "BlogPen",
-    description:
-      "A full-stack blogging platform with JWT authentication, protected routes, and REST APIs. Users can create, edit, and comment on blogs through a responsive React frontend connected to an Express backend.",
-    techStack: ["React", "Node.js", "Express", "MongoDB", "JWT"],
-    githubLink: "https://github.com/ADIIgits/BlogPen.git",
-    liveLink: "",
-    image: "https://i.pinimg.com/736x/cd/8e/16/cd8e1658dc26fd4a004ea7cd23165559.jpg",
-    featured: true
+  id: 4,
+  title: "Photogram",
+  description:
+    "A full-stack social media platform for photographers with a cinematic dark aesthetic. Features OTP email authentication, a personalized follow-based feed, a Discover page with trending posts, and smart location-aware search with Haversine ranking — all backed by a type-safe Express 5 + Prisma + PostgreSQL API with auto-generated React Query hooks via Orval.",
+  techStack: ["React", "Node.js", "Express", "PostgreSQL", "Prisma", "JWT", "Redis", "Zod", "TanStack Query"],
+  githubLink: "https://github.com/ADIIgits/photogram",
+  liveLink: "https://photogram-zeta.vercel.app",
+  image: "",
+  featured: true
   },
   {
     id: 4,
