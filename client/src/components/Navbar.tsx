@@ -48,6 +48,7 @@ export function Navbar({ profile }: NavbarProps) {
         </span>
         <div className="flex items-center gap-5 text-sm text-foreground/60">
           <button onClick={() => scrollTo('about')} className="hover:text-foreground transition-colors">About</button>
+          <button onClick={() => scrollTo('projects')} className="hover:text-foreground transition-colors">Work</button>
           <button onClick={() => scrollTo('experience')} className="hover:text-foreground transition-colors">Experience</button>
           <button onClick={() => scrollTo('contact')} className="hover:text-foreground transition-colors">Contact</button>
         </div>
@@ -104,6 +105,13 @@ export function Navbar({ profile }: NavbarProps) {
                   className="px-4 py-3 text-sm font-medium hover:bg-foreground/5 text-foreground/80 hover:text-foreground text-left transition-colors rounded-xl w-full"
                 >
                   About
+                </button>
+                <div className="w-[90%] h-px bg-foreground/10 mx-auto" />
+                <button 
+                  onClick={() => scrollTo('projects')} 
+                  className="px-4 py-3 text-sm font-medium hover:bg-foreground/5 text-foreground/80 hover:text-foreground text-left transition-colors rounded-xl w-full"
+                >
+                  Work
                 </button>
                 <div className="w-[90%] h-px bg-foreground/10 mx-auto" />
                 <button 
