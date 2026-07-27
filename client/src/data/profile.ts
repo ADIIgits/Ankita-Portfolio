@@ -1,18 +1,17 @@
 export const profile = {
   id: 1,
-  name: "Aditya Sharma",
-  title: "Backend Engineer & Product Builder",
-  tagline: "I enjoy building products, exploring new technologies, and turning ideas into real applications.",
+  name: "Ankita Sharma",
+  title: "Product Designer",
+  tagline: "Product Designer with experience designing AI-powered products, websites, and digital experiences.",
 
-  about: "Computer Science undergraduate at Lovely Professional University with a strong interest in backend engineering, full-stack development, and scalable systems. I enjoy building web and mobile applications, experimenting with new technologies, and learning by creating real projects. Alongside development, I actively practice Data Structures and Algorithms to strengthen my problem-solving skills and write efficient, reliable code.",
+  about: "Product Designer with experience designing AI-powered products, websites, and digital experiences from research to high-fidelity prototypes. Passionate about simplifying complex workflows through user-centred design, strategic thinking, and visual storytelling while collaborating closely with developers and stakeholders.",
 
-  email: "adityalpu27@gmail.com",
+  email: "Ankitasharmaww@gmail.com",
 
   socialLinks: {
-    github: "https://github.com/ADIIgits",
-    linkedin: "https://www.linkedin.com/in/adityasharma2710/",
-    twitter: "https://x.com/adityashrama_ai"
+    linkedin: "https://www.linkedin.com/in/ankita-s-180206235",
+    linktree: "https://linktr.ee/ankuseven2.0"
   },
 
-  resumeUrl: "https://drive.google.com/file/d/14Uwk72TVVR_5xp8fv2YrcbcUCUuS-XN_/view?usp=sharing",
+  resumeUrl: "",
 };

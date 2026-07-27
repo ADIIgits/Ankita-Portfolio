@@ -55,11 +55,8 @@ export default function Home() {
         <Hero profile={profile} />
         <About profile={profile} />
         <Tech technologies={technologies} />
-        <Projects projects={projects} />
         <Experience experiences={experiences} />
         <Education education={education} />
-        <CompetitiveProgramming data={competitiveProgramming} />
-        <Certificates certificates={certificates} />
         <Contact profile={profile} />
       </main>
     </div>

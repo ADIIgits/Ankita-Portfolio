@@ -28,7 +28,7 @@ export function Tech({ technologies }: { technologies: Technology[] }) {
           className="text-3xl sm:text-5xl font-bold mb-16 flex items-center gap-4"
         >
           <span className="text-foreground/20 font-mono text-xl sm:text-2xl">02.</span>
-          Capabilities
+          Skills
         </motion.h2>
 
         <div className="space-y-16">
