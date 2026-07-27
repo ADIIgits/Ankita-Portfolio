@@ -4,7 +4,7 @@ import type { Profile } from "@/types";
 
 // ── Replace with your portrait image URL ──
 //https://i.pinimg.com/736x/24/84/11/2484110f21890b98d2a492567d817493.jpg
-const heroImageUrl = "";
+const heroImageUrl = "/images/ankiprofile.jpg";
 
 interface HeroProps {
   profile: Profile;
