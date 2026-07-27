@@ -37,7 +37,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
         <div className="flex items-center gap-6 mt-auto">
           {project.liveLink && (
             <a href={project.liveLink} target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm font-medium hover:text-accent transition-colors">
-              <ExternalLink size={16} /> Live Site
+              <ExternalLink size={16} /> See more
             </a>
           )}
           {project.githubLink && (

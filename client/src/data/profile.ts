@@ -4,7 +4,7 @@ export const profile = {
   title: "Product Designer",
   tagline: "Product Designer with experience designing AI-powered products, websites, and digital experiences.",
 
-  about: "Product Designer with experience designing AI-powered products, websites, and digital experiences from research to high-fidelity prototypes. Passionate about simplifying complex workflows through user-centred design, strategic thinking, and visual storytelling while collaborating closely with developers and stakeholders.",
+  about: "Passionate about blending user psychology and needs with clean design. My expertise encompasses user research, prototyping, and wireframing, ensuring high-quality results that meet the unique needs of each project and client. I craft solutions that seamlessly merge creativity with strategic business impact.",
 
   email: "Ankitasharmaww@gmail.com",
   imageUrl: "/images/ankiprofile.JPG",

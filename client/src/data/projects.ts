@@ -32,11 +32,11 @@ export const projects = [
   {
     id: 4,
     title: "Indie",
-    description: "This project focuses on creating a contemporary illustration-led brand identity inspired by Indian cultural aesthetics. The central character is designed as a strong visual asset that can be consistently used across branding and product applications. The illustration blends traditional motifs with modern styling, making it adaptable for packaging, home décor, and lifestyle products such as matchboxes, wall hangings, rugs, and tote bags. The goal was to build a scalable and commercially viable visual identity system with high recall and versatility.",
+    description: "A curated collection of illustrations, posters, branding experiments, and visual identity explorations created across self-initiated and conceptual projects. The work spans editorial graphics, campaign visuals, packaging, and product applications, combining illustration, typography, and contemporary design systems to create distinctive visual languages. Each project explores a different aesthetic direction while maintaining a strong focus on storytelling, cultural references, craftsmanship, and brand recall, demonstrating versatility across both digital and physical design touchpoints.",
     techStack: ["Illustration", "Brand Identity", "Visual Identity", "Adobe Illustrator"],
     githubLink: "",
     liveLink: "https://www.behance.net/gallery/248021911/Posters",
-    image: "/images/gum.png",
+    image: "/images/gum2.png",
     featured: true
   }
 ];
