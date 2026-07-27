@@ -28,5 +28,15 @@ export const projects = [
     liveLink: "",
     image: "/images/bond.png",
     featured: true
+  },
+  {
+    id: 4,
+    title: "Indie",
+    description: "This project focuses on creating a contemporary illustration-led brand identity inspired by Indian cultural aesthetics. The central character is designed as a strong visual asset that can be consistently used across branding and product applications. The illustration blends traditional motifs with modern styling, making it adaptable for packaging, home décor, and lifestyle products such as matchboxes, wall hangings, rugs, and tote bags. The goal was to build a scalable and commercially viable visual identity system with high recall and versatility.",
+    techStack: ["Illustration", "Brand Identity", "Visual Identity", "Adobe Illustrator"],
+    githubLink: "",
+    liveLink: "",
+    image: "/images/gum.png",
+    featured: true
   }
 ];
